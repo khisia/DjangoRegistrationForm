@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d69297f5-f7d1-4e53-a540-746e78b76cab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/morningDjangoRegistrationTwo/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/add-product.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/logout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/products.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/update-product.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/morningDjangoRegistrationTwo/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/morningDjangoRegistrationTwo/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/morningDjangoRegistrationTwo/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/morningDjangoRegistrationTwo/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/morningDjangoRegistrationTwo/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/morningDjangoRegistrationTwo/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
@@ -23,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -40,16 +35,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/emobilis/Desktop/morningDjangoRegistrationTwo/static"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/emobilis/Desktop/morningDjangoRegistrationTwo/static&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/static" />
@@ -89,7 +84,8 @@
       <option name="presentableId" value="Default" />
       <updated>1677650096229</updated>
       <workItem from="1677650098517" duration="6096000" />
-      <workItem from="1677735413721" duration="7169000" />
+      <workItem from="1677735413721" duration="8218000" />
+      <workItem from="1677820671721" duration="7125000" />
     </task>
     <servers />
   </component>
