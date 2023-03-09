@@ -27,5 +27,6 @@ urlpatterns = [
     path('add-product/', general_views.add_product, name='add-product'),
     path('products/', general_views.view_products, name='products'),
     path('delete-product/<id>', general_views.delete_product, name='delete-product'),
-    path('update-product/<id>', general_views.update_products, name='update-product')
+    path('update-product/<id>', general_views.update_products, name='update-product'),
+    path('pay/<id>', general_views.payment, name='pay-via-mpesa')
 ]
