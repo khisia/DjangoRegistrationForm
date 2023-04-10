@@ -1,1 +1,1 @@
-# DjangoRegistrationForm
+# DjangoRegistrationForms
